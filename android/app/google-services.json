@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1033509652827",
+    "project_id": "getx-todo-6c69e",
+    "storage_bucket": "getx-todo-6c69e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033509652827:android:eecf8ced29dba7cd89f27e",
+        "android_client_info": {
+          "package_name": "com.amannanda.getx_todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033509652827-0fhorf5g8j9jt3n9o6tqpi58ucnbdh6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO_v1hIXl0oczR_RJXgB0YstAu5bfpsGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033509652827-0fhorf5g8j9jt3n9o6tqpi58ucnbdh6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
